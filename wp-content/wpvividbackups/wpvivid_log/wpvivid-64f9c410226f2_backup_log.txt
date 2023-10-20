@@ -1,0 +1,95 @@
+Log created: 2023-09-07 12:37:36
+Type: backup
+[2023-09-07 12:37:36][notice]Start backing up.
+[2023-09-07 12:37:36][notice]server info fcgi:Off max execution time: 300 wp version:6.3.1 php version:7.4.33 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:5.23 MB memory_get_peak_usage:5.65 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-09-07 12:37:36][notice]LiteSpeed Server.
+[2023-09-07 12:37:36][notice]Add LiteSpeed Rule
+[2023-09-07 12:37:36][notice]Prepare to backup backup_db files.
+[2023-09-07 12:37:36][notice]Start exporting database.
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_term_relationships
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_links
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_commentmeta
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_litespeed_url
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_postmeta
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_term_taxonomy
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_termmeta
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_terms
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_usermeta
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_users
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_posts
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_comments
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_litespeed_url_file
+[2023-09-07 12:37:36][notice]Preparing to dump table wp_options
+[2023-09-07 12:37:36][notice]Exporting database finished.
+[2023-09-07 12:37:36][notice]Start compressing database
+[2023-09-07 12:37:36][notice]Prepare to zip file. file: arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_db.sql
+[2023-09-07 12:37:36][notice]Adding zip files completed.arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_db.part001.zip, filesize: 245.55 KB
+[2023-09-07 12:37:36][notice]Compressing database completed
+[2023-09-07 12:37:36][notice]Backing up backup_db completed.
+[2023-09-07 12:37:37][notice]Prepare to backup backup_themes files.
+[2023-09-07 12:37:37][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_themes.part001.zip index:500
+[2023-09-07 12:37:37][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_themes.part001.zip success. index:500 file size:2.07 MB
+[2023-09-07 12:37:37][notice]Backing up backup_themes completed.
+[2023-09-07 12:37:37][notice]Prepare to backup backup_plugin files.
+[2023-09-07 12:37:37][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_plugin.part001.zip index:500
+[2023-09-07 12:37:37][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_plugin.part001.zip success. index:500 file size:1,012.03 KB
+[2023-09-07 12:37:38][notice]Backing up backup_plugin completed.
+[2023-09-07 12:37:38][notice]Prepare to backup backup_uploads files.
+[2023-09-07 12:37:38][notice]Backing up backup_uploads completed.
+[2023-09-07 12:37:38][notice]Prepare to backup backup_content files.
+[2023-09-07 12:37:38][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_content.part001.zip index:500
+[2023-09-07 12:37:38][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_content.part001.zip success. index:500 file size:144.00 B
+[2023-09-07 12:37:38][notice]Backing up backup_content completed.
+[2023-09-07 12:37:38][notice]Prepare to backup backup_core files.
+[2023-09-07 12:37:38][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip index:500
+[2023-09-07 12:37:40][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip success. index:500 file size:3.16 MB
+[2023-09-07 12:37:40][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip index:1000
+[2023-09-07 12:37:43][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip success. index:1000 file size:8.85 MB
+[2023-09-07 12:37:43][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip index:1500
+[2023-09-07 12:37:43][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip success. index:1500 file size:9.28 MB
+[2023-09-07 12:37:43][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip index:2000
+[2023-09-07 12:37:44][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip success. index:2000 file size:10.63 MB
+[2023-09-07 12:37:44][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip index:2500
+[2023-09-07 12:37:46][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip success. index:2500 file size:12.59 MB
+[2023-09-07 12:37:46][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip index:3000
+[2023-09-07 12:37:46][notice]Compressing zip file:arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.part001.zip success. index:3000 file size:13.11 MB
+[2023-09-07 12:37:47][notice]Backing up backup_core completed.
+[2023-09-07 12:37:47][notice]Prepare to backup backup_merge files.
+[2023-09-07 12:37:47][notice]Prepare to zip file. file: arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_db.zip
+[2023-09-07 12:37:47][notice]Adding zip files completed.arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.part001.zip, filesize: 245.97 KB
+[2023-09-07 12:37:47][notice]Prepare to zip file. file: arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_themes.zip
+[2023-09-07 12:37:47][notice]Adding zip files completed.arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.part001.zip, filesize: 2.30 MB
+[2023-09-07 12:37:47][notice]Prepare to zip file. file: arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_plugin.zip
+[2023-09-07 12:37:47][notice]Adding zip files completed.arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.part001.zip, filesize: 3.25 MB
+[2023-09-07 12:37:47][notice]Prepare to zip file. file: arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_content.zip
+[2023-09-07 12:37:47][notice]Adding zip files completed.arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.part001.zip, filesize: 3.25 MB
+[2023-09-07 12:37:47][notice]Prepare to zip file. file: arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_core.zip
+[2023-09-07 12:37:48][notice]Adding zip files completed.arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.part001.zip, filesize: 16.00 MB
+[2023-09-07 12:37:48][notice]Backing up backup_merge completed.
+[2023-09-07 12:37:48][notice]files: ["\/home\/rcmgiga\/arshadbrothers.com\/wp-content\/wpvividbackups\/arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip"]
+[2023-09-07 12:37:48][notice]Connect site 
+[2023-09-07 12:37:49][notice]Start uploading arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip
+[2023-09-07 12:37:49][notice]{"result":"success","file_status":{"status":"start"}}
+[2023-09-07 12:37:49][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 0
+[2023-09-07 12:37:50][notice]finished send chunk
+[2023-09-07 12:37:50][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 2097152
+[2023-09-07 12:37:51][notice]finished send chunk
+[2023-09-07 12:37:52][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 4194304
+[2023-09-07 12:37:53][notice]finished send chunk
+[2023-09-07 12:37:53][notice]Uploading arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip Total size: 16.00 MB Uploaded: 6.00 MB speed:1572.86kb/s
+[2023-09-07 12:37:53][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 6291456
+[2023-09-07 12:37:54][notice]finished send chunk
+[2023-09-07 12:37:54][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 8388608
+[2023-09-07 12:37:55][notice]finished send chunk
+[2023-09-07 12:37:55][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 10485760
+[2023-09-07 12:37:56][notice]finished send chunk
+[2023-09-07 12:37:56][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 12582912
+[2023-09-07 12:37:57][notice]finished send chunk
+[2023-09-07 12:37:57][notice]Uploading arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip Total size: 16.00 MB Uploaded: 14.00 MB speed:2097.15kb/s
+[2023-09-07 12:37:57][notice]send chunk arshadbrothers.com_wpvivid-64f9c410226f2_2023-09-07-12-37_backup_all.zip offset 14680064
+[2023-09-07 12:37:59][notice]finished send chunk
+[2023-09-07 12:37:59][notice]upload finished
+[2023-09-07 12:37:59][notice]Finish upload to send_to_site
+[2023-09-07 12:37:59][notice]Upload finished. Delete task wpvivid-64f9c410226f2
+[2023-09-07 12:37:59][notice]LiteSpeed Server.
+[2023-09-07 12:37:59][notice]Clear LiteSpeed Rule

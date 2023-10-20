@@ -1,0 +1,121 @@
+Log created: 2023-09-07 12:38:39
+Type: transfer
+[2023-09-07 12:38:39][notice]server info fcgi:Off max execution time: 300 wp version:6.3.1 php version:7.4.33 db version:5.5.5 php ini:safe_mode: memory_limit:1024M memory_get_usage:3.02 MB memory_get_peak_usage:3.29 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-09-07 12:38:39][notice]Connect site success
+[2023-09-07 12:38:41][notice]start upload.
+[2023-09-07 12:38:41][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:0 B
+[2023-09-07 12:38:41][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:2097152
+[2023-09-07 12:38:41][notice]continue size:2097152 size1:59369898
+[2023-09-07 12:38:44][notice]start upload.
+[2023-09-07 12:38:44][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:2 MB
+[2023-09-07 12:38:44][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:4194304
+[2023-09-07 12:38:44][notice]continue size:4194304 size1:59369898
+[2023-09-07 12:38:47][notice]start upload.
+[2023-09-07 12:38:47][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:4 MB
+[2023-09-07 12:38:47][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:6291456
+[2023-09-07 12:38:47][notice]continue size:6291456 size1:59369898
+[2023-09-07 12:38:50][notice]start upload.
+[2023-09-07 12:38:50][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:6 MB
+[2023-09-07 12:38:50][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:8388608
+[2023-09-07 12:38:50][notice]continue size:8388608 size1:59369898
+[2023-09-07 12:38:53][notice]start upload.
+[2023-09-07 12:38:53][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:8 MB
+[2023-09-07 12:38:53][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:10485760
+[2023-09-07 12:38:53][notice]continue size:10485760 size1:59369898
+[2023-09-07 12:38:55][notice]start upload.
+[2023-09-07 12:38:55][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:10 MB
+[2023-09-07 12:38:55][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:12582912
+[2023-09-07 12:38:55][notice]continue size:12582912 size1:59369898
+[2023-09-07 12:38:58][notice]start upload.
+[2023-09-07 12:38:58][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:12 MB
+[2023-09-07 12:38:58][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:14680064
+[2023-09-07 12:38:58][notice]continue size:14680064 size1:59369898
+[2023-09-07 12:39:01][notice]start upload.
+[2023-09-07 12:39:01][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:14 MB
+[2023-09-07 12:39:01][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:16777216
+[2023-09-07 12:39:01][notice]continue size:16777216 size1:59369898
+[2023-09-07 12:39:04][notice]start upload.
+[2023-09-07 12:39:04][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:16 MB
+[2023-09-07 12:39:04][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:18874368
+[2023-09-07 12:39:04][notice]continue size:18874368 size1:59369898
+[2023-09-07 12:39:07][notice]start upload.
+[2023-09-07 12:39:07][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:18 MB
+[2023-09-07 12:39:07][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:20971520
+[2023-09-07 12:39:07][notice]continue size:20971520 size1:59369898
+[2023-09-07 12:39:10][notice]start upload.
+[2023-09-07 12:39:10][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:20 MB
+[2023-09-07 12:39:10][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:23068672
+[2023-09-07 12:39:10][notice]continue size:23068672 size1:59369898
+[2023-09-07 12:39:13][notice]start upload.
+[2023-09-07 12:39:13][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:22 MB
+[2023-09-07 12:39:13][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:25165824
+[2023-09-07 12:39:13][notice]continue size:25165824 size1:59369898
+[2023-09-07 12:39:16][notice]start upload.
+[2023-09-07 12:39:16][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:24 MB
+[2023-09-07 12:39:16][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:27262976
+[2023-09-07 12:39:16][notice]continue size:27262976 size1:59369898
+[2023-09-07 12:39:19][notice]start upload.
+[2023-09-07 12:39:19][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:26 MB
+[2023-09-07 12:39:19][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:29360128
+[2023-09-07 12:39:19][notice]continue size:29360128 size1:59369898
+[2023-09-07 12:39:22][notice]start upload.
+[2023-09-07 12:39:22][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:28 MB
+[2023-09-07 12:39:22][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:31457280
+[2023-09-07 12:39:22][notice]continue size:31457280 size1:59369898
+[2023-09-07 12:39:24][notice]start upload.
+[2023-09-07 12:39:24][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:30 MB
+[2023-09-07 12:39:24][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:33554432
+[2023-09-07 12:39:24][notice]continue size:33554432 size1:59369898
+[2023-09-07 12:39:27][notice]start upload.
+[2023-09-07 12:39:27][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:32 MB
+[2023-09-07 12:39:27][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:35651584
+[2023-09-07 12:39:27][notice]continue size:35651584 size1:59369898
+[2023-09-07 12:39:30][notice]start upload.
+[2023-09-07 12:39:30][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:34 MB
+[2023-09-07 12:39:30][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:37748736
+[2023-09-07 12:39:30][notice]continue size:37748736 size1:59369898
+[2023-09-07 12:39:33][notice]start upload.
+[2023-09-07 12:39:33][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:36 MB
+[2023-09-07 12:39:33][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:39845888
+[2023-09-07 12:39:33][notice]continue size:39845888 size1:59369898
+[2023-09-07 12:39:36][notice]start upload.
+[2023-09-07 12:39:36][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:38 MB
+[2023-09-07 12:39:36][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:41943040
+[2023-09-07 12:39:36][notice]continue size:41943040 size1:59369898
+[2023-09-07 12:39:39][notice]start upload.
+[2023-09-07 12:39:39][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:40 MB
+[2023-09-07 12:39:39][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:44040192
+[2023-09-07 12:39:39][notice]continue size:44040192 size1:59369898
+[2023-09-07 12:39:41][notice]start upload.
+[2023-09-07 12:39:41][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:42 MB
+[2023-09-07 12:39:41][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:46137344
+[2023-09-07 12:39:41][notice]continue size:46137344 size1:59369898
+[2023-09-07 12:39:44][notice]start upload.
+[2023-09-07 12:39:44][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:44 MB
+[2023-09-07 12:39:44][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:48234496
+[2023-09-07 12:39:44][notice]continue size:48234496 size1:59369898
+[2023-09-07 12:39:47][notice]start upload.
+[2023-09-07 12:39:47][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:46 MB
+[2023-09-07 12:39:47][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:50331648
+[2023-09-07 12:39:47][notice]continue size:50331648 size1:59369898
+[2023-09-07 12:39:49][notice]start upload.
+[2023-09-07 12:39:49][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:48 MB
+[2023-09-07 12:39:49][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:52428800
+[2023-09-07 12:39:49][notice]continue size:52428800 size1:59369898
+[2023-09-07 12:39:52][notice]start upload.
+[2023-09-07 12:39:52][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:50 MB
+[2023-09-07 12:39:52][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:54525952
+[2023-09-07 12:39:52][notice]continue size:54525952 size1:59369898
+[2023-09-07 12:39:54][notice]start upload.
+[2023-09-07 12:39:54][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:52 MB
+[2023-09-07 12:39:54][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:56623104
+[2023-09-07 12:39:54][notice]continue size:56623104 size1:59369898
+[2023-09-07 12:39:57][notice]start upload.
+[2023-09-07 12:39:57][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:54 MB
+[2023-09-07 12:39:57][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:58720256
+[2023-09-07 12:39:57][notice]continue size:58720256 size1:59369898
+[2023-09-07 12:39:59][notice]start upload.
+[2023-09-07 12:39:59][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip offset:56 MB
+[2023-09-07 12:39:59][notice]Write file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip success size:59369898
+[2023-09-07 12:40:00][notice]rename temp file:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid_temp-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip to new name:/home/rcmgiga/arshadbrothers.com/wp-content/wpvividbackups/dev-arbrothers.pantheonsite.io_wpvivid-64f9c43bb3d3f_2023-09-07-12-38_backup_all.zip
+[2023-09-07 12:40:00][notice]upload finished
